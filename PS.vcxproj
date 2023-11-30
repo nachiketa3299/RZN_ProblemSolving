@@ -249,9 +249,6 @@
     <ClInclude Include="PROG.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_23288_231130.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include=".gitignore" />
     <None Include="ClassDiagram.cd" />
   </ItemGroup>

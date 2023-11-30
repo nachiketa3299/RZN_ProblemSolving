@@ -21,11 +21,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_23288_231130.cpp">
-      <Filter>백준%28BOJ%29</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="ClassDiagram.cd" />
     <None Include=".gitignore" />
   </ItemGroup>
