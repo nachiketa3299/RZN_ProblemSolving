@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="백준%28BOJ%29">
+      <UniqueIdentifier>{c3469d07-b4f6-408b-9a9c-e9928d8c1c05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="알고스팟%28ALGO%29">
+      <UniqueIdentifier>{06330a99-3cac-4d2f-940f-5533d31675ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="프로그래머스%28PROG%29">
+      <UniqueIdentifier>{e5703917-e571-46e6-8ab0-34519287fce3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PROG.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BOJ_23288_231130.cpp">
+      <Filter>백준%28BOJ%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include=".gitignore" />
+  </ItemGroup>
+</Project>
