@@ -16,12 +16,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PROG.h">
+    <ClInclude Include="RPasts\PROG.h">
       <Filter>헤더</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagram.cd" />
+    <None Include="RPasts\ClassDiagram.cd" />
     <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RSources\BOJ\1074\1074_231208_00.cpp" />
   </ItemGroup>
 </Project>
